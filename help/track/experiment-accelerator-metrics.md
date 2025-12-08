@@ -56,6 +56,6 @@ Följande mått är tillgängliga:
 
 * **[!UICONTROL Lift]**: Mät den procentuella förbättringen av konverteringsgraden för en given behandling över baslinjen.
 
-* **[!UICONTROL Confidence]**: Bevis på att en viss behandling är densamma som den initiala behandlingen. [Läs mer](http://experienceleague.adobe.com/sv/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
+* **[!UICONTROL Confidence]**: Bevis på att en viss behandling är densamma som den initiala behandlingen. [Läs mer](http://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
 
 * **[!UICONTROL Contribution]**: Den andel av den totala förändringen i mätvärdet som kan tillskrivas ett specifikt experiment eller en viss behandling, vilket gör det möjligt att identifiera de initiativ som har störst relativ effekt.
