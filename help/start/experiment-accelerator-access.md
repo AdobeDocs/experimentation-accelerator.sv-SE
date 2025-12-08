@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Använd Journey Optimizer Experimentation Accelerator
 
-När du har [skapat och konfigurerat ditt experiment](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/content-management/content-experiment/content-experiment) och skickat dina kampanjer eller resor till dina profiler, kan du få tillgång till **[!UICONTROL Journey Optimizer Experimentation Accelerator]** och fördjupa dig i hur ditt experiment fungerar.
+När du har [skapat och konfigurerat ditt experiment](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/content-experiment) och skickat dina kampanjer eller resor till dina profiler, kan du få tillgång till **[!UICONTROL Journey Optimizer Experimentation Accelerator]** och fördjupa dig i hur ditt experiment fungerar.
 
 Du kan komma åt **[!UICONTROL Journey Optimizer Experimentation Accelerator]** antingen från den vänstra menyn i listrutan [!UICONTROL Experimentation] eller via Apps-väljaren. Observera att användare som bara har en Target-licens bara kan komma åt den via Apps-väljaren.
 
@@ -55,7 +55,7 @@ Så här tilldelar du rollen till nya användare:
 
 1. Ange användarens namn, e-postadress eller välj i listan och klicka sedan på **[!UICONTROL Save]**.
 
-   Om användaren inte har skapats tidigare, se [den här dokumentationen](https://experienceleague.adobe.com/sv/docs/experience-platform/access-control/abac/permissions-ui/users).
+   Om användaren inte har skapats tidigare, se [den här dokumentationen](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/users).
 
 Användaren får ett e-postmeddelande med instruktioner om hur du kommer åt instansen.
 
