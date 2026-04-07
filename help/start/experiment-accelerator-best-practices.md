@@ -7,9 +7,9 @@ topic: Content Management
 role: User
 level: Beginner
 keywords: innehåll, experimentera, multipelt, målgrupp, behandling
-source-git-commit: c52010f196f46d234066fd34ae8e9c0be7d2148b
+source-git-commit: 020ed6c652c66ed78789a5a90dfc8c8dece624a9
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '743'
 ht-degree: 0%
 
 ---
@@ -85,11 +85,11 @@ Exempel: _Vi tror att X-ändringar kommer att öka med Y på grund av Z._
 Ett bra experiment ger inte bara en vinst, det ger en tydlig och åtgärdbar inlärning.
 Här kan du söka efter:
 
-&check; **Statistisk konfidens**: Det är osannolikt att skillnaden mellan varianter beror på en chans.
-&check; **Justering med mål**: Det primära måttet visar meningsfulla framsteg mot ett affärsmål.
-&check; **Sekundär effekt**: Inga signifikanta negativa biverkningar på relaterade mått.
-&check; **Scalability**: Resultatet kan informera framtida beslut eller vara generaliserat till andra områden.
-&check; **Clarity**: Orsaken till resultatet är relativt isolerad och förstådd.
+&amp;kontrollera; **Statistisk konfidens**: Det är osannolikt att skillnaden mellan varianter beror på en chans.
+&amp;kontrollera; **Justering med mål**: Det primära måttet visar meningsfulla framsteg mot ett affärsmål.
+&amp;kontrollera; **Sekundär påverkan**: Inga signifikanta negativa biverkningar på relaterade mått.
+&amp;kontrollera; **Skalbarhet**: Resultatet kan informera framtida beslut eller generaliseras till andra områden.
+&amp;kontrollera; **Klarhet**: Orsaken till resultatet är rimligt isolerad och förstådd.
 
 Experimentation handlar inte bara om att hitta den&quot;bästa&quot; versionen, utan också om att bygga upp kunskap genom testning och iteration. När det är klart avslöjar experiment insikter som driver smartare beslut, bättre användarupplevelser och förbättrade resultat.
 

@@ -7,7 +7,7 @@ topic: Content Management
 role: User
 level: Beginner
 keywords: innehåll, experimentera, multipelt, målgrupp, behandling
-source-git-commit: 4f30411591ab3bec4b749cfb58f437ddb3474ffa
+source-git-commit: 020ed6c652c66ed78789a5a90dfc8c8dece624a9
 workflow-type: tm+mt
 source-wordcount: '431'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Använd Journey Optimizer Experimentation Accelerator
 
-När du har [skapat och konfigurerat ditt experiment](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/content-management/content-experiment/content-experiment) och skickat dina kampanjer eller resor till dina profiler, kan du få tillgång till **[!UICONTROL Journey Optimizer Experimentation Accelerator]** och fördjupa dig i hur ditt experiment fungerar.
+När du har [skapat och konfigurerat ditt experiment](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/content-experiment) och skickat dina kampanjer eller resor till dina profiler, kan du få tillgång till **[!UICONTROL Journey Optimizer Experimentation Accelerator]** och fördjupa dig i hur ditt experiment fungerar.
 
 Du kan komma åt **[!UICONTROL Journey Optimizer Experimentation Accelerator]** antingen från den vänstra menyn i listrutan [!UICONTROL Experimentation] eller via Apps-väljaren. Observera att användare som bara har en Target-licens bara kan komma åt den via Apps-väljaren.
 
@@ -55,7 +55,7 @@ Så här tilldelar du rollen till nya användare:
 
 1. Ange användarens namn, e-postadress eller välj i listan och klicka sedan på **[!UICONTROL Save]**.
 
-   Om användaren inte har skapats tidigare, se [den här dokumentationen](https://experienceleague.adobe.com/sv/docs/experience-platform/access-control/abac/permissions-ui/users).
+   Om användaren inte har skapats tidigare, se [den här dokumentationen](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/users).
 
 Användaren får ett e-postmeddelande med instruktioner om hur du kommer åt instansen.
 
@@ -104,11 +104,13 @@ Användare som läggs till i den här profilen kan nu komma åt Journey Optimize
 +++
 
 
-<!--table style="table-layout:fixed"><tr style="border: 0;">
+<!--
+table style="table-layout:fixed"><tr style="border: 0;">
 <td><img alt="Overview" href="experiment-accelerator-overview.md" src="assets/do-not-localize/experiments-2.jpeg">
 <div align="center"><p><strong><a href="experiment-accelerator-overview.md">Overview</a></strong></p></div></td>
 <td><img alt="Experiments" href="experiment-accelerator-monitor.md" src="assets/do-not-localize/experiment-overview.jpeg">
 <div align="center"><p><strong><a href="experiment-accelerator-monitor.md">Experiments</a></strong></p></div></td>
 <td><img alt="Metrics" href="experiment-accelerator-metrics.md" src="assets/do-not-localize/experiment-metrics.png">
 <div align="center"><p><strong><a href="experiment-accelerator-metrics.md">Metrics</a></strong></p></div></td>
-</tr></table-->
+</tr></table
+-->
