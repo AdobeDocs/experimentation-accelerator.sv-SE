@@ -85,11 +85,11 @@ Exempel: _Vi tror att X-ändringar kommer att öka med Y på grund av Z._
 Ett bra experiment ger inte bara en vinst, det ger en tydlig och åtgärdbar inlärning.
 Här kan du söka efter:
 
-&amp;kontrollera; **Statistisk konfidens**: Det är osannolikt att skillnaden mellan varianter beror på en chans.
-&amp;kontrollera; **Justering med mål**: Det primära måttet visar meningsfulla framsteg mot ett affärsmål.
-&amp;kontrollera; **Sekundär påverkan**: Inga signifikanta negativa biverkningar på relaterade mått.
-&amp;kontrollera; **Skalbarhet**: Resultatet kan informera framtida beslut eller generaliseras till andra områden.
-&amp;kontrollera; **Klarhet**: Orsaken till resultatet är rimligt isolerad och förstådd.
+&kontrollera; **Statistisk konfidens**: Det är osannolikt att skillnaden mellan varianter beror på en chans.
+&kontrollera; **Justering med mål**: Det primära måttet visar meningsfulla framsteg mot ett affärsmål.
+&kontrollera; **Sekundär påverkan**: Inga signifikanta negativa biverkningar på relaterade mått.
+&kontrollera; **Skalbarhet**: Resultatet kan informera framtida beslut eller generaliseras till andra områden.
+&kontrollera; **Klarhet**: Orsaken till resultatet är rimligt isolerad och förstådd.
 
 Experimentation handlar inte bara om att hitta den&quot;bästa&quot; versionen, utan också om att bygga upp kunskap genom testning och iteration. När det är klart avslöjar experiment insikter som driver smartare beslut, bättre användarupplevelser och förbättrade resultat.
 
